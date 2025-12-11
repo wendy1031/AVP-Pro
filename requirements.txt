@@ -1,0 +1,8 @@
+torch>=1.13.0
+transformers>=4.28.1
+numpy
+pandas
+scikit-learn
+biopython
+ifeatureomegacli
+tqdm
