@@ -3,3 +3,8 @@ __pycache__/
 esm2_t30_150M_UR50D/
 *.pth
 *.pkl
+__pycache__/
+*.pyc
+esm2_t30_150M_UR50D/
+*.pth
+*.pkl
