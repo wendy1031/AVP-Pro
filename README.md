@@ -1,12 +1,12 @@
-# **AVP-Fusion**
+# **AVP-Pro**
 
-### **Adaptive Multi-Modal Fusion and Contrastive Learning for Two-Stage Antiviral Peptide Identification**
+### **Adaptive Multi-Modal Pro and Contrastive Learning for Two-Stage Antiviral Peptide Identification**
 
 ---
 
 ## ** Introduction**
 
-**AVP-Fusion** is a deep learning framework designed for the high-accuracy identification of antiviral peptides (AVPs).  
+**AVP-Pro** is a deep learning framework designed for the high-accuracy identification of antiviral peptides (AVPs).  
 The core of this project is a robust model that classifies whether a given peptide sequence possesses antiviral properties.
 
 While the full framework supports a two-stage process, this repository provides the complete implementation for:
@@ -28,8 +28,8 @@ We recommend using Conda to manage the environment.
 
 ### **1. Create Conda Environment**
 ```bash
-conda create -n avp_fusion python=3.8
-conda activate avp_fusion
+conda create -n avp_Pro python=3.8
+conda activate avp_Pro
 ```
 
 ### **2. Install Dependencies**
@@ -103,4 +103,5 @@ python predict.py --sequence "ANKFNQALGAMQTGFTTTNEAFRKVQDAVNNNAQALSKLASE" --ckpt
 ```
 
 ---
+
 
