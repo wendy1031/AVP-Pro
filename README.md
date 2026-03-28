@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1113802140.svg)](https://doi.org/10.5281/zenodo.19285248)
+
 # **AVP-Pro**
 
 ### **Adaptive Multi-Modal Pro and Contrastive Learning for Two-Stage Antiviral Peptide Identification**
@@ -42,7 +44,7 @@ pip install -r requirements.txt
 The official **esm2_t30_150M_UR50D** model has already been downloaded and included in this project.  
 If you prefer to download it yourself, you can get it from:
 
-👉 https://huggingface.co/facebook/esm2_t30_150M_UR50D/tree/main
+https://huggingface.co/facebook/esm2_t30_150M_UR50D/tree/main
 
 
 Place the downloaded folder under:
