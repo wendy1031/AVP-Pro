@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/1113802140.svg)](https://doi.org/10.5281/zenodo.19285248)
-
 # **AVP-Pro**
 
 ### **Adaptive Multi-Modal Pro and Contrastive Learning for Two-Stage Antiviral Peptide Identification**
